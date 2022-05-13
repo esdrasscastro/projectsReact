@@ -5,8 +5,8 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-map-gl": "^3.2.7",
-    "react-scripts": "1.1.4"
+    "react-map-gl": "^3.2.9",
+    "react-scripts": "5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
