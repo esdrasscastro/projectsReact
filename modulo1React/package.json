@@ -14,7 +14,7 @@
     "@babel/plugin-proposal-class-properties": "^7.16.5",
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^8.2.5",
     "node-sass": "^7.0.2",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
